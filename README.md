@@ -6,19 +6,19 @@ Build a Massachusetts loan-level risk view by combining LendingClub 2019 borrowe
 Quantify how credit quality (FICO, grade) and capacity-to-repay (DTI, term) drive default probability and pricing.
 Test whether community-level conditions (income, age structure) add incremental signal to borrower-level risk.
 ### Key Findings:
-Default risk declines monotonically with higher FICO and better grades
+#### Default risk declines monotonically with higher FICO and better grades
 <img width="1570" height="971" alt="image" src="https://github.com/user-attachments/assets/7f5303ff-f975-4107-8015-16c7a44fa4a7" />
 
-Interest rates are inversely related to FICO and grade, indicating broadly consistent risk-based pricing.
+#### Interest rates are inversely related to FICO and grade, indicating broadly consistent risk-based pricing.
 <img width="1778" height="981" alt="image" src="https://github.com/user-attachments/assets/b25c4540-20af-4257-9ddc-9d3e0515e4e0" />
 
-High-income areas (yellow-green on the left map — e.g., Greater Boston, MetroWest) tend to exhibit lower delinquency rates (darker green on the right map).
+#### High-income areas (yellow-green on the left map — e.g., Greater Boston, MetroWest) tend to exhibit lower delinquency rates (darker green on the right map).
 <img width="2922" height="1471" alt="image" src="https://github.com/user-attachments/assets/f78c474a-e397-4de8-b33a-6d7f6495c501" />
 
-Higher income groups tend to have higher average FICO scores, with FICO score trends increasing as income rises.
+#### Higher income groups tend to have higher average FICO scores, with FICO score trends increasing as income rises.
 <img width="932" height="583" alt="image" src="https://github.com/user-attachments/assets/b7e589eb-4a0e-4408-9c34-34ca5ccd11c4" />
 
-The Massachusetts portfolio skews modestly toward higher-grade (lower-risk) loans, suggesting better borrower quality relative to the U.S. average.
+#### The Massachusetts portfolio skews modestly toward higher-grade (lower-risk) loans, suggesting better borrower quality relative to the U.S. average.
 <img width="975" height="506" alt="image" src="https://github.com/user-attachments/assets/d6e105a3-4b42-4403-a93d-054f85667f5c" />
 
 ###  Methods:
